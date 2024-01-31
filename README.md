@@ -1,13 +1,14 @@
-- 👋 Hi, I’m @DaemonPooling AKA Izagisa
-- 👀 I’m interested in Philosophy, Psychology, Philosophy, Computer Science, Mathematics and Programming
-- 🌱 I’m currently learning how to use Github, so I can be Productive hehe
-- 💞️ I’m looking to collaborate on Computer Science and Mathematics related projects
-- 📫 How to reach me: You can reach me on my Discord: izagisa#0
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: No fun fact.
-- Full Introduction: [rentry/Izagisa](https://rentry.co/Izagisa)
+# Hi, I am Jordan
 
-<!---
-DaemonPooling/DaemonPooling is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](asset/ohaiyo.png)
+
+I’m a web developer, web designer, and data analyst with a high curiosity✨ for learning new things. I love to share my projects with the world and create things that inspire, innovate, and improve. I enjoy working with Node.JS, ReactJS, JavaScript, Python, Tailwind, and Vercel. I’m always open to collaborate with anyone who shares my interests.
+
+# Stats
+![](https://github-readme-stats.vercel.app/api?username=DaemonPooling&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+
+
+![](asset/bye.png)

@@ -6,7 +6,7 @@ I’m a web developer, web designer, and data analyst with a high curiosity✨ f
 
 # Stats
 ![](https://github-readme-stats.vercel.app/api?username=DaemonPooling&show_icons=true&theme=dracula)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DaemonPooling)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaemonPooling&layout=compact)
 
 
